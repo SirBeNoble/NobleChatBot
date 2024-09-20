@@ -5,7 +5,7 @@ from langchain_groq import ChatGroq
 
 
 st.title("Chat with Agent Noble!")
-st.write("Hello! I'm your friendly Groq Chatbot, named NOBLE. I can help answer your questions, provide information on any topic, or just chat. Let's start a conversation!")
+st.write("Hello! I'm your friendly Gro/Ollama Chatbot, named NOBLE. I can help answer your questions, provide information on any topic, or just chat. Let's start a conversation!")
 
 conversatoinal_memory_length = 18
 
